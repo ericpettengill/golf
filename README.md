@@ -17,3 +17,7 @@ The `sg_data.csv` file contains multiple strokes gained statistics by round of g
 * __sq_sequence__
 * __tour__: WEB, PGA, EURO, ...
 * __tournament_year__
+
+# Masters Scores
+
+`masters_scores.csv` contains round by round scores of every masters tournament
